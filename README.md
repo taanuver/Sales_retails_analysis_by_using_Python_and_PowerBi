@@ -14,6 +14,9 @@ Sales analysis by using Python for Exploratory Data Analysis and interactive Sal
 ## Dataset 
 Retail sales dataset extract from Kaggle which containing 4310 rows and 21 columns.
 
+## Document
+https://1drv.ms/w/c/9e6575d576f9ea1c/IQDCHxrUunTOR5sFrlKygYR7AcW4MtAPY_IScdkE7iSi2yQ?e=j4xaSi
+
 ## Key analysis
 -Missing Value handle.
 -Data cleaning
